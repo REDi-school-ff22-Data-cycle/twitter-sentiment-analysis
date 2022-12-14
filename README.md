@@ -47,6 +47,6 @@ Outline of the project:
 
 **Phase 2: Productionize:**  
 
-- Select a model for prediction Logistic Regression
+- Select a model for prediction Logistic Regression, oversampled data.
 - Deploy the model in FastAPI (run the model locally)
 - Run the app in Heroku (28.11.22, end of the free version). 
