@@ -22,6 +22,8 @@ Each tweet is labelled as one of the following classes:
 
 
 Outline of the project:
+Phase 1: 
+
 1. Create a code that loads and processes the data
 2. Explore the dataset
 3. Tweets preprosessing techniques
@@ -36,11 +38,13 @@ Outline of the project:
   4.4 K Nearest Neighbors Classification
   
 5. Feature Engeneering Techniques
+
   5.1 Classification
+  
   5.2 Oversampling
 
 
 Phase 2: Productionize:  
 
 - Deploy the model in FastAPI (run the model locally)
-- Run the app in Heroku (28.11.22, no more free version). 
+- Run the app in Heroku (28.11.22, end of the free version). 
