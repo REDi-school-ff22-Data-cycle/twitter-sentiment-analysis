@@ -33,3 +33,8 @@ Outline of the project:
 5. Feature Engeneering Techniques
   5.1 Classification
   5.2 Oversampling
+
+
+Phase 2: 
+
+- Deploy the model in FastAPI
