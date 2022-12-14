@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis Climate Change
+#Twitter Sentiment Analysis Climate Change
 
 Data Circle Course - ReDI School Berlin 
 Fall 2022
@@ -21,7 +21,7 @@ Each tweet is labelled as one of the following classes:
  -1(Anti): the tweet does not believe in man-made climate change
 
 
-Outline of the project:
+##Outline of the project:
 1. Create a code that loads and processes the data
 2. Explore the dataset
 3. Tweets preprosessing techniques
