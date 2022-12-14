@@ -22,7 +22,8 @@ Each tweet is labelled as one of the following classes:
 
 
 Outline of the project:
-Phase 1: 
+
+**Phase 1:** 
 
 1. Create a code that loads and processes the data
 2. Explore the dataset
@@ -44,7 +45,7 @@ Phase 1:
   5.2 Oversampling
 
 
-Phase 2: Productionize:  
+**Phase 2: Productionize:**  
 
 - Deploy the model in FastAPI (run the model locally)
 - Run the app in Heroku (28.11.22, end of the free version). 
