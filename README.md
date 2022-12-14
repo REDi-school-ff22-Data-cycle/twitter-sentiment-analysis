@@ -35,6 +35,7 @@ Outline of the project:
   5.2 Oversampling
 
 
-Phase 2: 
+Phase 2: Productionize:  
 
-- Deploy the model in FastAPI
+- Deploy the model in FastAPI (run the model locally)
+- Run the app in Heroku (28.11.22, no more free version). 
