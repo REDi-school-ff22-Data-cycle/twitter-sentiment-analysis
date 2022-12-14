@@ -27,9 +27,13 @@ Outline of the project:
 3. Tweets preprosessing techniques
 4. Prediction Models:
   4.1 Linear Regression
+  
   4.2 Naive Bayes Classifier
+  
   4.3 Random Forest Classifier
+  
   4.4 K Nearest Neighbors Classification
+  
 5. Feature Engeneering Techniques
   5.1 Classification
   5.2 Oversampling
