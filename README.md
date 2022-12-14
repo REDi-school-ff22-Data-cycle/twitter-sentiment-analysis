@@ -26,6 +26,7 @@ Outline of the project:
 2. Explore the dataset
 3. Tweets preprosessing techniques
 4. Prediction Models:
+
   4.1 Linear Regression
   
   4.2 Naive Bayes Classifier
