@@ -32,4 +32,4 @@ Outline of the project:
   4.4 K Nearest Neighbors Classification
 5. Feature Engeneering Techniques
   5.1 Classification
-  5.2 Oversamplong
+  5.2 Oversampling
